@@ -40,7 +40,7 @@ p {
 }
 
 .wrapper {
-  background: #42A8C0;
+  background: #2b0d29;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -48,7 +48,7 @@ p {
 }
 
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #53144e;
   position: absolute;
   right: 0;
   width: 240px;
@@ -61,10 +61,19 @@ p {
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(250, 154, 213, 0.2);
   text-align: center;
   color: #fff;
 }
+
+#juli-image{
+  height: 140px;
+}
+
+.mis-proyectos{
+  color:pink;
+}
+
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
@@ -96,7 +105,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 15px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
@@ -159,7 +168,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2d7788;
+  color: #8a2181;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -174,7 +183,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #8a2181;
   text-align: center;
   font-size: 16px;
   position: relative;
@@ -218,6 +227,7 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  color:#8a2181; /*Mi color de titulo*/
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
@@ -244,7 +254,7 @@ p {
   background-clip: padding-box;
 }
 .skillset .theme-progress-bar {
-  background: #68bacd;
+  background: #a8369f73 ;
 }
 
 .footer {
